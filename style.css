@@ -39,6 +39,7 @@ margin-top: 40px;
 }
 .Donate-today h1{
     font-size: 50px;
+    margin-bottom: 10px;
     }
 .amount{
         display: flex;
@@ -46,16 +47,20 @@ margin-top: 40px;
         align-items:center;
         margin-left: 20%;
         margin-right: 20%;
+        margin-top: 20px;
     
     }
 .box{
     background: #FAFAFA;
     text-align: center;
-    padding: 10px 10px; 
-    border-radius: 20px;
+    padding: 40px 40px; 
+    border-radius: 8px;
 }
 .color-mark{
-    background-color: orange;
+    background: #FFEEEE;
+border: 2px solid #FF5959;
+border-radius: 5px;
+color: #FF5959;
 }
 
 

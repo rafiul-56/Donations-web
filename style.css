@@ -1,9 +1,12 @@
 .donation-first{
     background-image: url(images/donation12.png);
-    position: absolute;
-width: 1440px;
-height: 669px;
-left: 0px;
-top: 0px;
-
+height:600px;
+background-repeat: no-repeat;
+background-size:cover;
+text-align: center;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
 }
+

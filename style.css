@@ -30,4 +30,15 @@ padding: 16px 12px;
 border-radius: 8px;
 margin-top: 40px;
 }
+.Donate-today{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+}
+.Donate-today h1{
+    font-size: 50px;
+    }
+
 

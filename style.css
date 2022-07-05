@@ -9,4 +9,25 @@ flex-direction: column;
 justify-content: center;
 align-items: center;
 }
+.donation-first h1{
+    color: white;
+    font-size: 65px;
+}
+.donation-first p{
+    color: white;
+    font-size: 20px;
+}.donation-first a{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px 12px;
+gap: 8px;
+text-decoration: none;
+background-color: orangered;
+color: white;
+padding: 16px 12px;
+border-radius: 8px;
+margin-top: 40px;
+}
 

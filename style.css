@@ -85,5 +85,19 @@ color: #FF5959;
     color: white;
     border-radius: 8px;
 }
+.Donation-plan{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+}
+.Donation-plan h1{
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+.Donation-plan p{
+    text-align:center;
 
+}
 

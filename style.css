@@ -108,6 +108,7 @@ color: #FF5959;
     top: 1595.5px;
     background: rgba(79, 157, 166, 0.1);
     border-radius: 5px;
+    
 }
 .Shelter-family{
     position: absolute;
@@ -127,4 +128,49 @@ top: 1595.5px;
     background: #FFF4D6;
 border-radius: 5px;
 }
+#Donate_plan{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+    width: 100%;
+}
+.Donate{
+    overflow: hidden;
+    height: 350px;
+    width: 360px;
+    border-radius: 5px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+.Donate img{
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+.Donate h4{
+    color: black;
+    font-weight: 600px;
+    margin: 0;
+    padding-top: 25px;
+    padding-left: 25px;
+}
+.Donate p{
+    color: black;
+    font-weight: 600px;
+    margin: 0;
+    padding-top: 25px;
+    padding-left: 25px;
+}
+.food{
+    background-color: rgba(79, 157, 166, 0.1);
+}
+.shelter{
+    background-color:rgba(255, 89, 89, 0.1);
+}
+.education{
+    background-color: rgba(255, 244, 214, 1);
+}
+
 

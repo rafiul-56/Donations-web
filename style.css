@@ -100,4 +100,31 @@ color: #FF5959;
     text-align:center;
 
 }
+.Food-family{
+    position: absolute;
+    width: 360px;
+    height: 352px;
+    left: 157px;
+    top: 1595.5px;
+    background: rgba(79, 157, 166, 0.1);
+    border-radius: 5px;
+}
+.Shelter-family{
+    position: absolute;
+width: 360px;
+height: 352px;
+left: 541px;
+top: 1595.5px;
+    background: rgba(255, 89, 89, 0.1);
+border-radius: 5px;
+}
+.Education{
+    position: absolute;
+width: 360px;
+height: 352px;
+left: 925px;
+top: 1595.5px;
+    background: #FFF4D6;
+border-radius: 5px;
+}
 
